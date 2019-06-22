@@ -2,7 +2,9 @@
 
 
 
-https://github.com/Seeed-Studio/Wio_LTE_Arduino_Library
+Library: https://github.com/Seeed-Studio/Wio_LTE_Arduino_Library
+
+datasheet, schematic ..: http://wiki.seeedstudio.com/Wio_LTE_Cat_M1_NB-IoT_Tracker/
 
 Wio Tracker LTE is boards combined with STM32F405RGT6 and quectel EC21(4G/3G/GPS) module.
 
